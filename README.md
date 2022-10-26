@@ -5,7 +5,7 @@
 4. Matrix traversals (DFS, BFS, UF)
 5. Graph traversals (DFS, BFS)
 6. String concatenation
-7. Reverse linked list
+7. Linked list
 8. Merge sort
 9. Quick sort
 10. Quick select
@@ -30,7 +30,7 @@
 4. https://leetcode.com/problems/number-of-islands/
 5. https://leetcode.com/problems/course-schedule/
 6. https://leetcode.com/problems/reverse-words-in-a-string/
-7. https://leetcode.com/problems/reverse-linked-list/
+7. https://leetcode.com/problems/reorder-list/
 8. **Just code**
 9. **Just code**
 10. https://leetcode.com/problems/kth-largest-element-in-an-array/
