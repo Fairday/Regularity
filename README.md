@@ -44,5 +44,6 @@
 17. https://leetcode.com/problems/permutations/
 18. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
     https://leetcode.com/problems/climbing-stairs/
+    https://leetcode.com/problems/jump-game/
 19. https://leetcode.com/problems/subarray-sum-equals-k/
 20. https://leetcode.com/problems/basic-calculator/
