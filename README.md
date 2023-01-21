@@ -31,6 +31,7 @@
 5. https://leetcode.com/problems/course-schedule/
 6. https://leetcode.com/problems/reverse-words-in-a-string/
 7. https://leetcode.com/problems/reorder-list/
+   https://leetcode.com/problems/lru-cache/
 8. **Just code**
 9. **Just code**
 10. https://leetcode.com/problems/kth-largest-element-in-an-array/
