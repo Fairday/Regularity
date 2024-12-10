@@ -1,3 +1,5 @@
+*V1 List*
+
 **This repository contains results of regular practicing with the most important algorithms to be able to write:**
 1. Binary search (3 condition forms)
 2. Binary tree DFS (recursively, iterative) (inorder, postorder, preorder)
@@ -48,3 +50,52 @@
     https://leetcode.com/problems/jump-game/
 19. https://leetcode.com/problems/subarray-sum-equals-k/
 20. https://leetcode.com/problems/basic-calculator/
+
+*V2 List*
+
+**Array**
+1. https://leetcode.com/problems/rotate-array/
+2. https://leetcode.com/problems/3sum/ 
+3. https://leetcode.com/problems/find-the-duplicate-number/ 
+4. https://leetcode.com/problems/merge-intervals/
+5. https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+**Window**
+1. https://leetcode.com/problems/sliding-window-maximum/
+2. https://leetcode.com/problems/longest-repeating-character-replacement/
+
+**Stack**
+1. https://leetcode.com/problems/daily-temperatures/
+2. https://leetcode.com/problems/basic-calculator-ii/
+
+**Binary Search**
+1. https://leetcode.com/problems/search-in-rotated-sorted-array/
+2. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+**LinkedList**
+1. https://leetcode.com/problems/reorder-list/
+2. https://leetcode.com/problems/merge-two-sorted-lists/
+3. https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+**Tree**
+1. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+2. https://neetcode.io/problems/valid-tree
+3. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+**Graph**
+1. https://leetcode.com/problems/cheapest-flights-within-k-stops/
+2. https://leetcode.com/problems/number-of-islands/
+3. https://leetcode.com/problems/course-schedule/
+
+**UF**
+1. https://leetcode.com/problems/min-cost-to-connect-all-points/
+
+**SegmentTree**
+1. https://leetcode.com/problems/range-sum-query-mutable/
+
+**Trie**
+1. https://leetcode.com/problems/implement-trie-prefix-tree/
+
+**Heap**
+1. https://leetcode.com/problems/task-scheduler/
+2. https://neetcode.io/problems/meeting-schedule-ii
