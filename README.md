@@ -53,16 +53,24 @@
 
 *V2 List*
 
-**Array**
+**Two Pointers, Intervals, Cyclic Sort, QuickSelect, Sorting**
 1. https://leetcode.com/problems/rotate-array/
 2. https://leetcode.com/problems/3sum/ 
 3. https://leetcode.com/problems/find-the-duplicate-number/ 
 4. https://leetcode.com/problems/merge-intervals/
 5. https://leetcode.com/problems/kth-largest-element-in-an-array/
 
-**Window**
+**Backtracking**
+1. https://leetcode.com/problems/palindrome-partitioning/
+2. https://leetcode.com/problems/permutations/
+3. https://leetcode.com/problems/word-search/
+
+**Sliding Window**
+1. https://leetcode.com/problems/longest-repeating-character-replacement/
+2. https://leetcode.com/problems/minimum-window-substring/
+
+**Deque**
 1. https://leetcode.com/problems/sliding-window-maximum/
-2. https://leetcode.com/problems/longest-repeating-character-replacement/
 
 **Stack**
 1. https://leetcode.com/problems/daily-temperatures/
@@ -71,6 +79,7 @@
 **Binary Search**
 1. https://leetcode.com/problems/search-in-rotated-sorted-array/
 2. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3. https://leetcode.com/problems/koko-eating-bananas/
 
 **LinkedList**
 1. https://leetcode.com/problems/reorder-list/
@@ -99,3 +108,9 @@
 **Heap**
 1. https://leetcode.com/problems/task-scheduler/
 2. https://neetcode.io/problems/meeting-schedule-ii
+
+**Prefix Sum** (TBD)
+
+**DP** (TBD)
+
+**Bitwise** (TBD)
